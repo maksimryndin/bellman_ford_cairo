@@ -1,0 +1,7 @@
+target
+memory.bin
+private_input.json
+public_input.json
+trace.bin
+bellman_ford.proof
+graph.txt
